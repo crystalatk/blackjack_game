@@ -1,0 +1,30 @@
+.table {
+  background-color: green;
+  border: 2px solid black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border-radius: 7%;
+  padding: 2rem;
+  margin: 3rem;
+}
+
+.player {
+  color: wheat;
+  background-color: darkgreen;
+  padding: 2rem;
+  margin: 2rem;
+}
+
+.playing-card {
+  border: 1px solid black;
+}
+
+.buttons {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
+
+img {
+  max-width: 50px;
+  height: auto;
+  margin-top: 1rem;
+}
